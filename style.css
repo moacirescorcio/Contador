@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(209, 204, 196);
+    height: 100%;
+    margin: 0px;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#contador{
+    font-size: 70px;
+    margin-bottom: -3px;
+
+}
+
+#numero{
+    font-size: 50px;
+}
+
+
+  
