@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(248, 208, 227);
+    background-color: #e5ddcb;
     height: 100%;
     margin: 0px;
 }
@@ -12,7 +12,7 @@ body{
     height: 100vh;
 
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(135, 135, 253);
+    color: #524656;
 }
 
 
@@ -40,7 +40,7 @@ button{
 
 #numero{
     font-size: 50px;
-    color: rgb(252, 252, 21);
+    color: #cf4647;
 
 }
 
